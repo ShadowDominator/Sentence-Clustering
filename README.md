@@ -7,7 +7,7 @@ This is a code repository for a Sentence Clustering application. The application
 ## Installation
 Clone the repository:
 ```shell
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/ShadowDominator/Sentence-Clustering.git
 ```
 Install the required packages: 
 ```shell
